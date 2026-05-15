@@ -62,6 +62,7 @@ Evaluated the model using:
 FUTURE_ML_03
 │
 ├── Resume.csv
+├── Resume.zip
 ├──  predictions.csv
 ├── images
 ├── Resume_Screening_System.ipynb
